@@ -15,7 +15,6 @@ public class GFG {
         // get original n in m
         m = m ^ n;
 
-        System.out.println("After swapping: m = " + m
-                           + ", n = " + n);
+        System.out.println("After swapping: m = " + m)
     }
 }
